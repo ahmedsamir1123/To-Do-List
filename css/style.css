@@ -1,0 +1,36 @@
+.sectionINput {
+    height: 70px;
+}
+
+.cardd {
+
+    margin-top: 150px;
+
+}
+
+.text-secondary-subtle {
+    color: rgb(183, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+
+.background {
+
+    background-image: url(../images/download.jpeg);
+
+}
+
+body {
+
+    background: url(../images/pexels-pixabay-326333.jpg);
+    /* Ensures the image covers the whole page */
+
+background-size: cover;
+
+}
+
+.bg-secondary-subtlee {
+    background-color: #d7b897;
+
+
+}
